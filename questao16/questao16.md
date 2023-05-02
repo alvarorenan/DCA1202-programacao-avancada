@@ -1,0 +1,3 @@
+# Resposta
+
+Ao utilizar a biblioteca time.h, podemos utilizar a função time() para obter o tempo em segundos da execução das funções. Para isso, basta utilizar a função time() antes e depois da execução das funções, e subtrair o tempo final do tempo inicial. O resultado será o tempo de execução da função. Nesses dois casos o tempo de execução foi de 0 segundos, pois a função é muito simples e rápida. Porém se a função fosse mais complexa, o tempo de execução seria maior e poderia ser medido com precisão e feita uma comparação para saber qual modo é mais rápido.
